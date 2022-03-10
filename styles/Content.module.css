@@ -1,0 +1,19 @@
+.content {
+  margin: auto;
+}
+
+.headline {
+  font-size: 26px;
+}
+
+.hr {
+  border-width: 1px;
+}
+
+.lists {
+  font-size: 18px;
+}
+
+.ul {
+  font-size: 18px;
+}
